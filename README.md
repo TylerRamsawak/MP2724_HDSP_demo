@@ -1,2 +1,3 @@
-I needed a charge IC for my Motorola MicroTAC rebuild. The MP2724 seemed like a good candidate, so I made a demo board for it. While i was at it, I added
-the HDSP display that these phones use. Im in the process of writing the libaries for the MP2724 and the HDSP.
+A board I made to play with an old HDSP-211X display commonly found in Motorola MicroTAC series of phones. The charger IC is an MP2724, featuring I2C, USB-C cc protocol, legacy DPDM port detection, OVP, timers, watchdogs, you name it. And its capable of charging at 2A with 3A FETs!
+
+This is in the series towards rebuilding my Motorola MicroTAC phones.
